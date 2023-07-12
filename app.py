@@ -81,7 +81,7 @@ with col1:
     
 
 with col2:
-    st.plotly_chart(plot_px(dkw, 'latitude','longitude','Casablanka Tamoco 01 Juni 2023'))
+    st.plotly_chart(plot_px(dkw, 'latitude','longitude','Casablanka Mobilewalla 01 Juni 2023'))
     col2.metric(label='Mobilewalla',value=len(dkw))
     
     
