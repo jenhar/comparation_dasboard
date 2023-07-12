@@ -6,7 +6,7 @@ import pandas as pd
 
 import plotly.express as px
 
-st.set_page_config(page_title='RECOMENDATION DASBOARD',
+st.set_page_config(page_title='COMPARATION DASBOARD',
                    page_icon=":bar_chart:",
                    layout="wide")
 
