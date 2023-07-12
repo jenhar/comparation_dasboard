@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "kokas_tomoco",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "field_1": 47489, "device_id": "N0S0xL\/b0EN4sBajsE404jP8ZKA=", "ip_address": "aWkXCKUlT2s6O\/vArRFwsdD51mM=", "event_date": "2023-06-01T12:56:14.000", "latitude": -6.2217274, "longitude": 106.84347, "country": "ID", "device_type": "aaid", "device_os": "ANDROID" }, "geometry": { "type": "Point", "coordinates": [ 106.84347, -6.2217274 ] } },
+{ "type": "Feature", "properties": { "field_1": 103745, "device_id": "MlhF+foQsTHBYnt27VsA7arZy9M=", "ip_address": "tZIhg+P+qcgEnWc4c28gWTiGP6Y=", "event_date": "2023-06-01T14:50:05.000", "latitude": -6.2237625, "longitude": 106.84316, "country": "ID", "device_type": "aaid", "device_os": "ANDROID" }, "geometry": { "type": "Point", "coordinates": [ 106.84316, -6.2237625 ] } },
+{ "type": "Feature", "properties": { "field_1": 112196, "device_id": "giZD\/9Y4zSWgwjkwm66vZ41bz5A=", "ip_address": "5WL2nsNuYlEWN283bZkeQWE+m\/M=", "event_date": "2023-06-01T06:53:09.000", "latitude": -6.22444, "longitude": 106.84177, "country": "ID", "device_type": "adid", "device_os": "Android" }, "geometry": { "type": "Point", "coordinates": [ 106.84177, -6.22444 ] } },
+{ "type": "Feature", "properties": { "field_1": 183457, "device_id": "tRngdtcxif8oAeRKEHGv0q8US3g=", "ip_address": "Z+WUDfTUtv5kMH2uh+gONRWgyKM=", "event_date": "2023-06-01T15:19:11.000", "latitude": -6.224187, "longitude": 106.84273, "country": "ID", "device_type": "aaid", "device_os": "ANDROID" }, "geometry": { "type": "Point", "coordinates": [ 106.84273, -6.224187 ] } },
+{ "type": "Feature", "properties": { "field_1": 230435, "device_id": "X1dLdjAfWO\/YLK8MYbAAWquqxvY=", "ip_address": "5WL2nsNuYlEWN283bZkeQWE+m\/M=", "event_date": "2023-06-01T10:32:51.000", "latitude": -6.2245097, "longitude": 106.8428, "country": "ID", "device_type": "idfa", "device_os": "IOS" }, "geometry": { "type": "Point", "coordinates": [ 106.8428, -6.2245097 ] } },
+{ "type": "Feature", "properties": { "field_1": 399618, "device_id": "MlhF+foQsTHBYnt27VsA7arZy9M=", "ip_address": "tZIhg+P+qcgEnWc4c28gWTiGP6Y=", "event_date": "2023-06-01T14:49:46.000", "latitude": -6.2237625, "longitude": 106.84316, "country": "ID", "device_type": "aaid", "device_os": "ANDROID" }, "geometry": { "type": "Point", "coordinates": [ 106.84316, -6.2237625 ] } },
+{ "type": "Feature", "properties": { "field_1": 416023, "device_id": "TFJ8thtI9p95dS2ovlPX4oMcLe4=", "ip_address": "B\/\/cGrzId+Rx55nBYE8smZ26o8c=", "event_date": "2023-06-01T01:12:13.000", "latitude": -6.224252, "longitude": 106.84152, "country": "ID", "device_type": "aaid", "device_os": "ANDROID" }, "geometry": { "type": "Point", "coordinates": [ 106.84152, -6.224252 ] } }
+]
+}
